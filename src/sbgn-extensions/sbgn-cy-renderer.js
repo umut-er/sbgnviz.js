@@ -439,6 +439,11 @@ module.exports = function () {
     return false;
   };
 
+  // Temporary
+  $$.sbgn.isActive = function (node) {
+    return false;
+  }
+
   //this function is created to have same corner length when
   //complex's width or height is changed
   $$.sbgn.generateComplexShapePoints = function (cornerLength, width, height) {
