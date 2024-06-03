@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/iVis-at-Bilkent/sbgnviz.js/",
   "peerDependencies": {
-    "jquery": "^2.2.4",
+    "jquery": "^3.3.1",
     "file-saver": "^2.0.2",
     "cytoscape": "umut-er/cytoscape.js#unstable",
     "tippy.js": "^3.4.0"
