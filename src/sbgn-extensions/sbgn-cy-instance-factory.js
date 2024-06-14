@@ -553,7 +553,7 @@ module.exports = function () {
 	    });
 	  }
 
-	  var selectionColor = '#d67614';
+	  var selectionColor = '#89898a';
 	  var sbgnStyleSheet = cytoscape.stylesheet()
 	          .selector("node")
 	          .css({
